@@ -1,2 +1,2 @@
 # pac
-Project Assembler on C 
+Project Assembler for C 
